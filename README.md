@@ -1,2 +1,2 @@
-# slq-mysql
+# SQL-MYSQL
 queries
